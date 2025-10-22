@@ -1,0 +1,32 @@
+body {
+  background-color: #f5f5f5;
+  color: #40407a;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #80cbc4;
+  text-align: center;
+}
+
+h1 {
+  line-height: 200%;
+}
+
+nav, nav a {
+text-align: center;
+font-style: bold;
+text-decoration: none;
+}
+
+
+studio {
+  font-style: italic;
+}
+
+footer {
+  background-color: #80cbc4;
+  font-size: 0.6em;
+  font-style: italic;
+  text-align: center;
+}
